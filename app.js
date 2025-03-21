@@ -13,7 +13,7 @@ const users = [
 
 // Root route
 app.get('/', (req, res) => {
-  res.send('Welcome to the simple Express API!');
+  res.send('Welcome to the simple Express API! 2');
 });
 
 // GET all users
